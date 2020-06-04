@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<labels>
+  LU_YI_WEN LU_YI_WEN _NULL</labels>
+<label_position>
+  <LU_YI_WEN type_id="opencv-matrix">
+    <rows>2</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+      513. 253.</data></LU_YI_WEN>
+  <_NULL type_id="opencv-matrix">
+    <rows>2</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+      -1. -1.</data></_NULL></label_position>
+<cnt_map>
+  <LU_YI_WEN>2.</LU_YI_WEN></cnt_map>
+</opencv_storage>
